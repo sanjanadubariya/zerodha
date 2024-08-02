@@ -1,0 +1,35 @@
+#nav-img{
+    margin-top: 50px;
+    margin-left: 150px;
+    height: 40px;
+    width: 200px;
+}
+#nav-bar{
+text-align: right;
+text-size-adjust: 5px;
+text-decoration: solid;
+text-decoration-color: black;
+}
+#main-img{
+    width:1000px;
+    height: 500px;
+    margin-left: 250px;
+}
+h1,
+h3{
+    text-align: center;
+    font-style: oblique;
+
+}
+.btn{
+    
+}
+button{
+    color: rgb(15, 116, 167);
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    background-color: aqua;
+    align-self: center;
+margin-left:700px;
+}
